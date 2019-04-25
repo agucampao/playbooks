@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: ans1
   become: true
   roles:
    - user-create
