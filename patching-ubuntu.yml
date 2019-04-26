@@ -1,5 +1,5 @@
 ---
-- hosts: apt-servers
+- hosts: ans3
   become: true
   tasks:
    - name: updates a server
