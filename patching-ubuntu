@@ -1,3 +1,4 @@
+---
 - hosts: apt-servers
   sudo: true
   tasks:
